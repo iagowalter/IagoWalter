@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá!
 
-<!--
-**iagowalter/iagowalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Iago Walter, sou Engenheiro de Produção formado pela UFPel, focado em transformar dados em tomada de decisões estratégicas, eficiência operacional e estruturação de planejamento financeiro (FP&A). 
 
-Here are some ideas to get you started:
+📊 **Minhas Ferramentas de Trabalho**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Análise e Dashboards:** Power BI e Microsoft Excel Avançado
+* **Tratamento e Cálculos:** DAX, Power Query e Python
+* **Visão de Negócio:** Planejamento Financeiro (FP&A), Modelagem de Dados, Criação de KPIs e Otimização de Processos
+* **Idiomas:** Inglês Intermediário
+
+🌐 **Redes Sociais**
+
+* [LinkedIn](https://www.linkedin.com/in/iagorenanwalter/)
+* [E-mail](mailto:iagorenanwalter12@gmail.com)
